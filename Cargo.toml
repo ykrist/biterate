@@ -1,0 +1,13 @@
+[package]
+name = "biterate"
+version = "1.0.0"
+edition = "2021"
+authors = ["Yannik Rist <yannik.rist@uqconnect.edu.au>"]
+categories = ["algorithms"]
+description = "A Rust API for Gurobi optimizer"
+keywords = ["binary", "iterator"]
+license = "MIT"
+repository = "https://github.com/ykrist/biterate.git"
+homepage = "https://github.com/ykrist/biterate.git"
+readme = "README.md"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
