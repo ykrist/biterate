@@ -1,4 +1,4 @@
-# `biterate`
+# `biterate` ![Crates.io](https://img.shields.io/crates/v/biterate) ![docs.rs](https://img.shields.io/docsrs/biterate)
 
 A simple crate for iterating over the bits in bytes.
 
